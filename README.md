@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ICAEN (Catalonia) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://icaen.gencat.cat/
+The Institut Català d'Energia (ICAEN) is a public research institute based in Catalonia, Spain, dedicated to advancing energy research, innovation, and policy. It provides data, publications, and programs on renewable energy, energy efficiency, and sustainable development, supporting both regional and international initiatives. Through its campaigns, reports, and collaborations, ICAEN aims to promote a low‑carbon future and facilitate the transition to clean energy technologies across Catalonia and beyond.
+
+**Areas:** Company · Energy · Research · Public Institution · Catalonia
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://icaen.gencat.cat/)
+- [Documentation](https://icaen.gencat.cat/ca/l_icaen/)
+- [Getting started](https://icaen.gencat.cat/ca/inici/)
+- [Pricing](https://icaen.gencat.cat/ca/plans_programes/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/icaen/](https://apis.io/providers/icaen/).
